@@ -5,7 +5,8 @@
   "main": "app.js",
   "dependencies": {
     "grunt-contrib-cssmin": "^3.0.0",
-    "grunt-uncss": "^0.9.1"
+    "grunt-uncss": "^0.9.1",
+    "string-math": "^1.2.2"
   },
   "devDependencies": {
     "grunt": "^1.2.1"
